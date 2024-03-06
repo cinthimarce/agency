@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js Cinthi + TypeScript App"/>
+  <HelloWorld msg="Welcome to Your Vue.js Cinthi VUE 3+ TypeScript App"/>
 </template>
 
 <script lang="ts">
